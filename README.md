@@ -1,6 +1,6 @@
 ## Pre-requisites
 
-Run the backend node server to access the books service -  https://github.com/AnithaDharaneedharan/book-lego-service on http://localhost:8080/books  so that the books can be fetched on the front end
+Run the backend node server to access the books service -  https://github.com/AnithaDharaneedharan/book-lego-services on http://localhost:8080/books  so that the books can be fetched on the front end
 
 ## Available Scripts
 
