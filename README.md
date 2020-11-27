@@ -1,14 +1,14 @@
-# Getting Started with Create React App
+## Pre-requisites
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Run the backend node server to access the books service -  https://github.com/AnithaDharaneedharan/book-lego-service so that the books can be fetched on the front end
 
 ## Available Scripts
 
 In the project directory after cloning, you can run :
 
-### `npm i`
+### `npm i` to install the dependencies
 
-### `npm run start`
+### `npm run start` to start the application
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
